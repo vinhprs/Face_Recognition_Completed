@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <!-- responsive tag -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- favicon -->
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', filename='images/favacion_icon.png') }}">
+  <!-- bootstrap v4 css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+  <!-- font-awesome css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+  <!-- animate css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/animate.css') }}">
+  <!-- owl.carousel css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/owl.carousel.css') }}">
+  <!-- flaticon css  -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='fonts/flaticon.css') }}">
+  <!-- rsmenu CSS -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/rsmenu-main.css') }}">
+  <!-- magnific popup css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/magnific-popup.css') }}">
+  <!-- rsanimations css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/rsanimations.css') }}">
+  <!-- rsmenu transitions CSS -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/rsmenu-transitions.css') }}">
+  <!-- Slider Revolution CSS Files -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='revolution/css/settings.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='revolution/css/layers.css') }}">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='revolution/css/navigation.css') }}">
+  <!-- style css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  <!-- switch color presets css -->
+  <link id="switch_style" href="#" rel="stylesheet" type="text/css">
+  <!-- Spacing css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/spacing.css') }}">
+  <!-- responsive css -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/responsive.css') }}">
+
+  <title>Face Recognition Website</title>
+</head>
+
+<body>
+
+  <!-- Preloader area start here -->
+  <div id="tekhub-load">
+    <div class="spinner"></div>
+  </div>
+  <!--End preloader here -->
+
+  <header id="rs-header" class="transparent-header">
+    <!-- Header Menu Start -->
+    <div class="menu-area menu-sticky">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-3">
+            <div class="logo-area sticky-hidden">
+              <a href="/"><img src="{{ url_for('static', filename='images/dark-logo.png') }}" alt="logo"></a>
+            </div>
+          </div>
+          <div class="col-lg-9 mobile-menu-area">
+            <div class="rs-menu-area display-flex-center">
+              <div class="main-menu">
+                <a class="rs-menu-toggle"><i class="fa fa-bars"></i></a>
+                <nav class="rs-menu">
+                  <ul class="nav-menu">
+
+                    <li><a href="/">Home</a></li>
+                    <li><a class="active" href="{{ url_for('studentList') }}">All Peoples</a></li>
+                    <li> <a href="{{ url_for('detectStudent') }}">Detect face</a></li>
+                    <li><a href="{{ url_for('about') }}">About Me</a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="right-bar-button text-right">
+                <ul>
+                  <li><a class="readon box-shadow" href="{{ url_for('addNewStudent') }}">Get Started</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Header Menu End -->
+  </header>
+
+
+  <!-- Team  Section Start Here -->
+  <form action="/TrainImage" , method="post">
+  <div class="rs-team-section2 rs-team-grid pt-130 pb-80 md-pt-60 md-pb-60">
+    <div class="container">
+        <button class="readon banner" type="submit" style="background-color: #ffbf66; border: none; margin-bottom: 8px; 
+        text-transform: uppercase; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 500;">Training</button>
+      <div class="row grid-box">
+        {% for row in data %} 
+        <div class="col-lg-4 col-md-6 pr-5">
+          <div class="item">
+            <div class="team-item">
+              <div class="img-part">
+                <ul class="social-links">
+                  <!-- <li><a href="#">{{row[3]}}</a></li> -->
+                  <!-- <li><a href="#">{{row[4]}}</a></li> -->
+                  <li><a href="#">{{row[5]}}</a></li>
+                </ul>
+                <img src="{{ url_for('static', filename='images/team/1.jpg') }}" alt="">
+                <h3 class="name">
+                  <a style="padding-bottom: 24px;" class="title" href="#">{{row[1]}} {{row[2]}}</a>
+                </h3>
+              </div>
+              <div class="content-part">
+                <span class="category">ID: {{row[0]}}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+</form>
+  <!-- Team  Section Start Here -->
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+    crossorigin="anonymous"></script>
+  <!-- jquery latest version -->
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <!-- Slider Revolution core JavaScript files -->
+  <script src="{{ url_for('static', filename='revolution/js/jquery.themepunch.tools.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='revolution/js/jquery.themepunch.revolution.min.js') }}"></script>
+  <!-- Slider Revolution extension scripts. ONLY NEEDED FOR LOCAL TESTING -->
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.actions.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.carousel.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.kenburn.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.migration.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.navigation.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.parallax.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.slideanims.min.js') }}"></script>
+  <script type="text/javascript"
+    src="{{ url_for('static', filename='revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
+  <!-- modernizr js -->
+  <script src="{{ url_for('static', filename='js/modernizr-2.8.3.min.js') }}"></script>
+  <!-- counter top js -->
+  <script src="{{ url_for('static', filename='js/jquery.counterup.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/waypoints.min.js') }}"></script>
+  <!-- bootstrap js -->
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <!-- owl.carousel js -->
+  <script src="{{ url_for('static', filename='js/owl.carousel.min.js') }}"></script>
+  <!-- magnific popup -->
+  <script src="{{ url_for('static', filename='js/jquery.magnific-popup.min.js') }}"></script>
+  <!-- wow js -->
+  <script src="{{ url_for('static', filename='js/wow.min.js') }}"></script>
+  <!-- animated testimonial js -->
+  <script src="{{ url_for('static', filename='js/animate-testimonial.js') }}"></script>
+  <!-- rsmenu js -->
+  <script src="{{ url_for('static', filename='js/rsmenu-main.js') }}"></script>
+  <!-- plugins js -->
+  <script src="{{ url_for('static', filename='js/plugins.js') }}"></script>
+  <!-- Contact js -->
+  <script src="{{ url_for('static', filename='js/contact.form.js') }}"></script>
+  <!-- main js -->
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</body>
+
+</html>

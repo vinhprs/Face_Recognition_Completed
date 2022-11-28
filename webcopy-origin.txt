@@ -1,0 +1,656 @@
+Uri: http://tekhub.rstheme.com/computer-vision/about.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\about.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/blog-details.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\blog-details.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/blog.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\blog.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/contact.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\contact.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/animate.css
+File Name: C:\Users\toann\Desktop\tekhub.rstheme.com\computer-vision\css\animate.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/bootstrap.min.css
+File Name: C:\Users\toann\Desktop\tekhub.rstheme.com\computer-vision\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/font-awesome.min.css
+File Name: C:\Users\toann\Desktop\tekhub.rstheme.com\computer-vision\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/magnific-popup.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/owl.carousel.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/responsive.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\responsive.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/rsanimations.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\rsanimations.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/rsmenu-main.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\rsmenu-main.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/rsmenu-transitions.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\rsmenu-transitions.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/css/spacing.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\css\spacing.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/flaticon.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\flaticon.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.eot
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.eot?
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.svg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.ttf
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.woff
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/Flaticon.woff2
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://tekhub.rstheme.com/computer-vision/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/banner-logo.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\banner-logo.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/banner.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/double-circle-shape1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\double-circle-shape1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/double-circle-shape2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\double-circle-shape2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/lt-shape.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\lt-shape.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/rb1-shape.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\rb1-shape.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/rb2-shape.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\rb2-shape.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/round-border-shape.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\round-border-shape.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/shape-circle-bg.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\shape-circle-bg.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/shape-image.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\shape-image.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/banner/shape/top-shadow-shape.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\banner\shape\top-shadow-shape.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/bg/footer-bg.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\bg\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/1.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\1.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/2.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\2.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/3.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\3.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/4.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\4.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/5.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\5.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/6.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\6.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/author-avatar.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\author-avatar.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/author.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\author.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog-inner/avatar.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog-inner\avatar.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/b1.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\b1.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/b2.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\b2.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/b3.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\b3.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/b4.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\b4.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/recent-post/1.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\recent-post\1.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/recent-post/2.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\recent-post\2.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/recent-post/3.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\recent-post\3.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/blog/recent-post/4.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\blog\recent-post\4.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/breadcrumbs/bg1.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\breadcrumbs\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/breadcrumbs/blog-details.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\breadcrumbs\blog-details.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/contacts.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\contacts.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/dark-logo.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\dark-logo.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/double-circle-shape1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\double-circle-shape1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/double-circle-shape2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\double-circle-shape2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/fav.png
+File Name: C:\Users\toann\Desktop\tekhub.rstheme.com\computer-vision\images\fav.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/1A.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\1A.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/2A.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\2A.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/3A.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\3A.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/first/1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\first\1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/first/2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\first\2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/first/3.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\first\3.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/second/1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\second\1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/feature/second/2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\feature\second\2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/logo-white.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\logo-white.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/3.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\3.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/4.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\4.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/5.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\5.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/6.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\6.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/partner/light/7.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\partner\light\7.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/3.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\3.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/4.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\4.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon-bg.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon-bg.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/10.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\10.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/11.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\11.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/12.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\12.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/13.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\13.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/14.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\14.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/15.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\15.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/7.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\7.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/8.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\8.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/icon/9.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\icon\9.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/services/services-scanner-bg.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\services\services-scanner-bg.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/1.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\1.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/2.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\2.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/3.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\3.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/4.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\4.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/5.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\5.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/6.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\6.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/7.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\7.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/team/8.jpg
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\team\8.jpg
+Content Type: image/jpeg
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/1.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\1.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/10.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\10.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/2.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\2.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/3.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\3.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/4.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\4.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/5.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\5.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/6.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\6.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/7.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\7.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/8.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\8.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/9.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\9.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/testimonial/testmonial-text-bg.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\testimonial\testmonial-text-bg.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/title-arrow-wh.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\title-arrow-wh.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/images/title-arrow.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\images\title-arrow.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/index.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\index.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/index.html?fbclid=IwAR06j3Bv8lMdNiPmqa2nLsbaS7ZHxCVqIapM_Uh3wJwALBpTzXNYDWO9V-s
+File Name: C:\Users\toann\Desktop\tekhub.rstheme.com\computer-vision\index.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/animate-testimonial.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\animate-testimonial.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/bootstrap.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/contact.form.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\contact.form.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/jquery.counterup.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/jquery.magnific-popup.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/jquery.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/main.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\main.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/modernizr-2.8.3.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/owl.carousel.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/plugins.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/rsmenu-main.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\rsmenu-main.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/waypoints.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/js/wow.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/coloredbg.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/gridtile.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/gridtile_3x3.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/gridtile_white.png
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/assets/loader.gif
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/css/closedhand.cur
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/css/layers.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\css\layers.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/css/navigation.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/css/openhand.cur
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\css\openhand.cur
+Content Type: 
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/css/settings.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://tekhub.rstheme.com/computer-vision/services.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\services.html
+Content Type: text/html
+
+Uri: http://tekhub.rstheme.com/computer-vision/style.css
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\style.css
+Content Type: text/css
+
+Uri: http://tekhub.rstheme.com/computer-vision/team.html
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\computer-vision\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,700
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\toann\Desktop\New folder\tekhub.rstheme.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+

@@ -21,11 +21,11 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 2. Tạo môi trường venv để tiến hành chạy: 
 
-  2.1 Cài đặt thư viện vituralenv: $pip install virtualenv 
+    2.1 Cài đặt thư viện vituralenv: $pip install virtualenv 
   
-  2.2 Tạo thư mực venv: $python -m venv venv 
+    2.2 Tạo thư mực venv: $python -m venv venv 
   
-  2.3 Activate: $venv\Scripts\activate
+    2.3 Activate: $venv\Scripts\activate
 
 3. Cài các thư viện cần thiết có trong requirements.txt: $pip install -r requirement.txt
 
